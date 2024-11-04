@@ -1,0 +1,24 @@
+﻿Date;Amount;Vendor/Merchant;Category;Payment Method;Credit Card
+2024-10-01;150;McDonald's;Food & Dining;Credit Card;HSBC Credit Card
+2024-10-01;220;Starbucks;Food & Dining;Credit Card;Hang Seng Credit Card
+2024-10-03;250;Wellcome;Groceries;Credit Card;Hang Seng Credit Card
+2024-10-03;120;Circle K;Groceries;Credit Card;Citi Credit Card
+2024-10-05;400;Zara;Clothing;Credit Card;HSBC Credit Card
+2024-10-05;350;Uniqlo;Clothing;Credit Card;Citi Credit Card
+2024-10-06;60;MTR;Transport;Credit Card;HSBC Credit Card
+2024-10-08;220;Netflix;Subscription;Credit Card;Hang Seng Credit Card
+2024-10-10;700;Gym Membership;Health & Fitness;Credit Card;Citi Credit Card
+2024-10-12;400;IKEA;Home Supplies;Credit Card;HSBC Credit Card
+2024-10-12;100;Starbucks;Food & Dining;Credit Card;Hang Seng Credit Card
+2024-10-14;55;7-Eleven;Groceries;Credit Card;Hang Seng Credit Card
+2024-10-14;45;Circle K;Groceries;Credit Card;Hang Seng Credit Card
+2024-10-14;150;KFC;Food & Dining;Credit Card;Citi Credit Card
+2024-10-15;90;Uber;Transport;Credit Card;Citi Credit Card
+2024-10-15;400;IKEA;Home Supplies;Credit Card;Citi Credit Card
+2024-10-18;150;ParknShop;Groceries;Credit Card;HSBC Credit Card
+2024-10-20;600;CSL Mobile;Bills;Credit Card;Hang Seng Credit Card
+2024-10-22;240;Taobao;Shopping;Credit Card;HSBC Credit Card
+2024-10-22;200;Amazon;Shopping;Credit Card;Hang Seng Credit Card
+2024-10-25;100;Octopus Recharge;Transport;Credit Card;Hang Seng Credit Card
+2024-10-26;1300;AXA Insurance.;Insurance;Credit Card;Citi Credit Card
+2024-10-27;70;Circle K;Groceries;Credit Card;HSBC Credit Card
