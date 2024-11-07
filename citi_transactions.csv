@@ -1,0 +1,11 @@
+﻿Date;Amount;Vendor/Merchant;Category(1);Category(2);Credit Card
+2024-10-02;1170;Apple Store;Goods;Electronics;Citi Credit Card
+2024-10-03;60;Circle K;Goods;Groceries;Citi Credit Card
+2024-10-05;550;Uniqlo;Goods;Clothing;Citi Credit Card
+2024-10-10;700;Gym Membership;Subscription;Health & Fitness;Citi Credit Card
+2024-10-14;150;KFC;Food;Food & Dining;Citi Credit Card
+2024-10-15;90;Uber;Transport;Transport;Citi Credit Card
+2024-10-15;400;IKEA;Goods;Home Supplies;Citi Credit Card
+2024-10-17;600;Shell;Transport;Transport;Citi Credit Card
+2024-10-23;90;Apple Music;Subscription;Subscription;Citi Credit Card
+2024-10-26;1300;AXA Insurance.;Subscription;Insurance;Citi Credit Card
