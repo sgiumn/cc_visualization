@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 
 # Load data from CSV with semicolon delimiter
-df = pd.read_csv('all_transactions.csv', delimiter=';')
+df = pd.read_csv('sample_data_v3.csv', delimiter=';')
 # Group by category and sum the amounts
 category_distribution = df.groupby('Category(2)')['Amount'].sum()
 
@@ -11,12 +11,12 @@ category_distribution = df.groupby('Category(2)')['Amount'].sum()
 plt.figure(figsize=(8, 8))
 plt.pie(category_distribution, labels=category_distribution.index, autopct='%1.1f%%', startangle=140)
 plt.title("Spending Distribution by Category (October 2024)")
-plt.savefig("piechart_output/piechart_spec.png", format="png", dpi=600)
+plt.savefig("new_data_charts/piechart_spec.png", format="png", dpi=600)
 
 
 
 # Load data from CSV with semicolon delimiter
-df = pd.read_csv('all_transactions.csv', delimiter=';')
+df = pd.read_csv('sample_data_v3.csv', delimiter=';')
 # Group by category and sum the amounts
 category_distribution = df.groupby('Category(1)')['Amount'].sum()
 
@@ -24,7 +24,7 @@ category_distribution = df.groupby('Category(1)')['Amount'].sum()
 plt.figure(figsize=(8, 8))
 plt.pie(category_distribution, labels=category_distribution.index, autopct='%1.1f%%', startangle=140)
 plt.title("Spending Distribution by Category (October 2024)")
-plt.savefig("piechart_output/piechart_simple.png", format="png", dpi=600)
+plt.savefig("new_data_charts/piechart_simple.png", format="png", dpi=600)
 
 
 

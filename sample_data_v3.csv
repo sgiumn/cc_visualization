@@ -1,0 +1,31 @@
+﻿Date;Amount;Vendor/Merchant;Category(1);Category(2);Credit Card
+2024-10-01;70;McDonald's;Food;Food & Dining;HSBC Credit Card
+2024-10-01;110;Starbucks;Food;Food & Dining;Hang Seng Credit Card
+2024-10-02;1170;Apple Store;Goods;Electronics;Citi Credit Card
+2024-10-03;250;Wellcome;Goods;Groceries;Hang Seng Credit Card
+2024-10-03;60;Circle K;Goods;Groceries;Citi Credit Card
+2024-10-05;700;Zara;Goods;Clothing;HSBC Credit Card
+2024-10-05;550;Uniqlo;Goods;Clothing;Citi Credit Card
+2024-10-06;20;MTR;Transport;Transport;HSBC Credit Card
+2024-10-06;20;MTR;Transport;Transport;HSBC Credit Card
+2024-10-08;90;Netflix;Subscription;Subscription;Hang Seng Credit Card
+2024-10-10;700;Gym Membership;Subscription;Health & Fitness;Citi Credit Card
+2024-10-12;400;IKEA;Goods;Home Supplies;HSBC Credit Card
+2024-10-12;100;Starbucks;Food;Food & Dining;Hang Seng Credit Card
+2024-10-13;900;Le Labo;Goods;Luxuries;Hang Seng Credit Card
+2024-10-14;55;7-Eleven;Goods;Groceries;Hang Seng Credit Card
+2024-10-14;45;Circle K;Goods;Groceries;Hang Seng Credit Card
+2024-10-14;150;KFC;Food;Food & Dining;Citi Credit Card
+2024-10-15;90;Uber;Transport;Transport;Citi Credit Card
+2024-10-15;400;IKEA;Goods;Home Supplies;Citi Credit Card
+2024-10-16;160;Keeta;Food;Food & Dining;HSBC Credit Card
+2024-10-17;600;Shell;Transport;Transport;Citi Credit Card
+2024-10-18;150;ParknShop;Goods;Groceries;HSBC Credit Card
+2024-10-20;120;CSL Mobile;Subscription;Bills;Hang Seng Credit Card
+2024-10-22;240;Taobao;Goods;Shopping;HSBC Credit Card
+2024-10-22;200;Amazon;Goods;Shopping;Hang Seng Credit Card
+2024-10-23;90;Apple Music;Subscription;Subscription;Citi Credit Card
+2024-10-25;500;Octopus Recharge;Transport;Transport;Hang Seng Credit Card
+2024-10-26;1300;AXA Insurance.;Subscription;Insurance;Citi Credit Card
+2024-10-27;70;Circle K;Goods;Groceries;HSBC Credit Card
+2024-10-28;3000;Louis vuitton;Goods;Luxuries;HSBC Credit Card

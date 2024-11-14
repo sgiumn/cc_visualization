@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load data from CSV with semicolon delimiter
-df = pd.read_csv('all_transactions.csv', delimiter=';')
+df = pd.read_csv('sample_data_v3.csv', delimiter=';')
 
 # Group by both merchant and credit card, summing the spending for each combination
 merchant_card_spending = df.groupby(['Vendor/Merchant', 'Credit Card'])['Amount'].sum().unstack(fill_value=0)
@@ -19,4 +19,4 @@ plt.ylabel("Total Spending (HKD)")
 plt.xticks(rotation=45, ha='right')  # Rotate merchant names for readability
 plt.legend(title="Credit Card")
 plt.tight_layout()  # Adjust layout for better fit
-plt.savefig("barchart_output/barchart.png", format="png", dpi=600)
+plt.savefig("new_data_charts/barchart.png", format="png", dpi=600)

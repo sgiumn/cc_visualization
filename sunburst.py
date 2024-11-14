@@ -2,7 +2,7 @@ import pandas as pd
 import plotly.express as px
 
 # Load data
-df = pd.read_csv('all_transactions.csv', delimiter=';')
+df = pd.read_csv('sample_data_v3.csv', delimiter=';')
 
 # Create the sunburst chart
 fig = px.sunburst(df, path=['Category(1)', 'Category(2)'], values='Amount',
@@ -10,7 +10,7 @@ fig = px.sunburst(df, path=['Category(1)', 'Category(2)'], values='Amount',
 fig.update_traces(textinfo="label+percent parent")
 
 # Save the chart as a PNG image
-fig.write_image("sunburst_output/sunburst_chart.png", format="png", width=800, height=800)
+fig.write_image("new_data_charts/sunburst_chart.png", format="png", width=800, height=800)
 
 
 # Load data

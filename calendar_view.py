@@ -3,7 +3,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Load data from CSV with semicolon delimiter
-df = pd.read_csv('all_transactions.csv', delimiter=';')
+df = pd.read_csv('sample_data_v3.csv', delimiter=';')
 
 # Convert the 'Date' column to datetime format
 df['Date'] = pd.to_datetime(df['Date'])
@@ -46,7 +46,7 @@ sns.heatmap(calendar_spending, annot=True, fmt=".0f", cmap="YlOrRd", cbar_kws={'
 plt.title("October 2024 Spending Calendar")
 plt.xlabel("Day of Week")
 plt.ylabel("Week of Month")
-plt.savefig("calendar_output/calendar_all.png", format="png", dpi=600)
+plt.savefig("new_data_charts/calendar_all.png", format="png", dpi=600)
 
 
 
